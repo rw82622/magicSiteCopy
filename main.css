@@ -1,0 +1,46 @@
+nav {
+  color: white;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 30px;
+}
+#topFold {
+  background-image: url(https://180a8v2uue323epm863rarph-wpengine.netdna-ssl.com/wp-content/uploads/magic-home-bg-2.svg);
+  color: white;
+  text-align: center;
+}
+
+.partners {
+  height: 100px;
+  width: 120px;
+}
+
+li {
+  list-style-type: none;
+}
+
+#secButton {
+  background-color: black;
+  color: white;
+  width: 180px;
+  border-radius: 30px;
+}
+h1 {
+  font-size: 75px;
+}
+
+.center {
+  text-align: center;
+}
+body {
+  background-color: #f6f7fb;
+}
+
+p {
+  font-size: 25px;
+}
+
+button {
+  border-radius: 50%;
+}
